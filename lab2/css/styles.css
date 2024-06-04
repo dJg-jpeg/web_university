@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+footer {
+    margin-top: 20px;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.list-group-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.form-control {
+    margin-bottom: 10px;
+}
+
+.btn {
+    margin-left: 10px;
+}
